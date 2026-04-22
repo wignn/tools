@@ -16,7 +16,7 @@
     "scanner",
     "security"
   ],
-  "author": "",
+  "author": "Wign",
   "license": "ISC",
   "description": "GitHub OSINT Deep Scanner — concurrent repo, gist, and commit analysis"
 }
