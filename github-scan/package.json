@@ -1,0 +1,22 @@
+{
+  "name": "github-scan",
+  "version": "3.0.0",
+  "type": "module",
+  "main": "main.js",
+  "bin": {
+    "ghscan": "./main.js"
+  },
+  "scripts": {
+    "start": "node main.js",
+    "scan": "bun main.js"
+  },
+  "keywords": [
+    "github",
+    "osint",
+    "scanner",
+    "security"
+  ],
+  "author": "",
+  "license": "ISC",
+  "description": "GitHub OSINT Deep Scanner — concurrent repo, gist, and commit analysis"
+}
